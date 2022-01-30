@@ -1,2 +1,5 @@
 # 4LV5
-This is the 4LV5's repository by Suavan. This repository is under development.
+
+This is the 4LV5's repository by Suavan.
+
+This repository is only for help topics and other documents.
